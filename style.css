@@ -1,3 +1,7 @@
 h1 {
     background: fixed;
 }
+
+p::before{
+    background-color: aliceblue;
+}
